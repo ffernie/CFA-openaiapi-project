@@ -1,4 +1,4 @@
-<span style="color:#00B45A"> # Presentation Summary: Suzano Investment Recommendation </span>
+# <span style="color:#00B45A"> Presentation Summary: Suzano Investment Recommendation </span>
 
 ![Suzano-logo](https://cdn.prod.website-files.com/652e86223e44678d24f55b54/65e20d3a8bf4fe65c34e282d_Selo%20100%20anos%20site.jpg)
 
